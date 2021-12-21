@@ -5,7 +5,7 @@ margin: 5px;
 background: blue;
 }
 
-#b1{background:yellow;}
+#b1{background:yellow;
 	.y{background: grey;
 	padding: 5px;}
 	#b3{background: grey;
@@ -21,4 +21,4 @@ background: blue;
 	padding: 5px;
 	width: 32%;
 	float: left;}
-	#b6{clear: both;}
+	#b6{clear: both;}}
